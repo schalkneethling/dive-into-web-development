@@ -1,0 +1,11 @@
+.avatar-wrapper {
+  display: flex;
+  justify-content: center;
+  padding-block-end: 1rem;
+}
+
+.avatar {
+  block-size: 13rem;
+  inline-size: 13rem;
+  border-radius: var(--border-radius-circular);
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-display: swap;
+  font-family: EBGaramond08;
+  font-style: normal;
+  font-weight: 700;
+  src: local(EBGaramond08),
+    url("./Fonts/EBGaramond08-Regular.woff2") format(woff2);
+}
+
+body {
+  font-family: EBGaramond08, sans-serif;
+  letter-spacing: 0.0625rem;
+}
